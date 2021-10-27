@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-![alt text](https://github.com/JanVeb/pianotrainer_app/blob/master/assets/2021-10-27-15-54-35.mp4)
+![demo](https://github.com/JanVeb/pianotrainer_app/blob/master/assets/2021-10-27-15-54-35.mp4)
