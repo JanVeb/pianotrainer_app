@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml"
+                xmlns:cnx="http://cnx.rice.edu/cnxml"
+                xmlns:cnxorg="http://cnx.rice.edu/system-info"
+                xmlns:md="http://cnx.rice.edu/mdml"
+                xmlns:col="http://cnx.rice.edu/collxml"
+                xmlns:cnxml="http://cnx.rice.edu/cnxml"
+                xmlns:m="http://www.w3.org/1998/Math/MathML"
+                xmlns:q="http://cnx.rice.edu/qml/1.0"
+                xmlns:xhtml="http://www.w3.org/1999/xhtml"
+                xmlns:bib="http://bibtexml.sf.net/"
+                xmlns:cc="http://web.resource.org/cc/"
+                xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                xml:lang="en" type="Course">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml"
+          mdml-version="0.5">
+  <!-- WARNING! The 'metadata' section is read only. Do not edit below.
+       Changes to the metadata section in the source will not be saved. -->
+
+  <md:repository>http://cnx.org/content</md:repository>
+  <md:content-url>http://cnx.org/content/col10286/1.1</md:content-url>
+  <md:content-id>col10286</md:content-id>
+  <md:title>Learn Chinese via Mobile Phones</md:title>
+  
+  
+  <md:version>1.1</md:version>
+  <md:created>2005/06/14 22:34:00.084 GMT-5</md:created>
+  <md:revised>2005/06/14 23:02:34.522 GMT-5</md:revised>
+
+  <md:actors>
+    
+    
+    <md:person userid="tzemin">
+      <md:firstname>tze</md:firstname>
+      <md:surname>Chung</md:surname>
+      <md:fullname>tze Chung</md:fullname>
+      <md:email>tzemin@gmail.com</md:email>
+    </md:person>
+    
+  </md:actors>
+  <md:roles>
+    <md:role type="author">tzemin</md:role>
+    <md:role type="maintainer">tzemin</md:role>
+    <md:role type="licensor">tzemin</md:role>
+    
+    
+  </md:roles>
+
+  <md:license url="http://creativecommons.org/licenses/by/2.0/" />
+  <!-- For information on license requirements for use or modification, see license url in the
+       above <md:license> element.
+       For information on formatting required attribution, see the URL:
+         CONTENT_URL/content_info#cnx_cite_header
+       where CONTENT_URL is the value provided above in the <md:content-url> element.
+  -->
+  
+  
+  
+  
+
+  
+
+  <md:keywordlist>
+    <md:keyword>Cell Phones</md:keyword>
+    <md:keyword>Chinese Language Learning</md:keyword>
+    <md:keyword>Cognitive Apprenticeship Approach</md:keyword>
+    <md:keyword>Deep Learning</md:keyword>
+    <md:keyword>Mlearning</md:keyword>
+    <md:keyword>Mobile Phones</md:keyword>
+    <md:keyword>Moblogs</md:keyword>
+    <md:keyword>Teach-to-learn Approach</md:keyword>
+  </md:keywordlist>
+
+  <md:subjectlist>
+    <md:subject>Humanities</md:subject>
+  </md:subjectlist>
+
+  <md:abstract>This course teaches Chinese language via mobile phones. As such, learners can access them anywhere, anytime. The course is suitable for both children and adults, Chinese and English speakers. The training pedagogy is that of the Imperial Chinese language training method, which had been used for over 2000 years to build solid language foundation. Research into how language was taught in Imperial China indicates that the elementary language education emphasized small chunks of rote-learning, model after the teacher and the elders, and practice what's learned. This course is presented in a moblog which is an effective medium for delivering small amount of knowledge anytime, anywhere. It is also effective in drilling, which enables memorization. Furthermore, its ease of publication encourages users to interact. It can also bring together mentors, parents, adult and teenage learners to share their experience, ask questions, clarify doubts, and form bonds and friendship. In this course, the core teaching materials and the communication component are accessible via wireless devices. Additional learning materials can be accessed via computers.</md:abstract>
+
+  <md:language>en</md:language>
+
+  
+
+  
+  <md:homepage>http://dzg101.12wap.net</md:homepage>
+  
+  
+  <md:instructor>tze Chung</md:instructor>
+
+  <!-- WARNING! The 'metadata' section is read only. Do not edit above.
+       Changes to the metadata section in the source will not be saved. -->
+</metadata>
+
+  <col:parameters>
+    <col:param name="real-imaginary-notation" value="font"/>
+    <col:param name="and-or-notation"
+               value="propositional-logic"/>
+    <col:param name="gradient-notation" value="text"/>
+    <col:param name="mean-notation" value="bar"/>
+    <col:param name="remainder-notation" value="text"/>
+    <col:param name="conjugate-notation" value="bar"/>
+    <col:param name="imaginary-i-notation" value="i"/>
+    <col:param name="scalar-product-notation"
+               value="angle-bracket"/>
+    <col:param name="print-font-size" value="10pt"/>
+    <col:param name="curl-notation" value="text"/>
+    <col:param name="for-all-equation-layout"
+               value="symbolic"/>
+    <col:param name="vector-notation" value="bold"/>
+    <col:param name="print-paper-size" value="8.5x11"/>
+    <col:param name="print-font" value="computer-modern"/>
+    <col:param name="print-style" value=""/>
+    <col:param name="print-paragraph-spacing"
+               value="compact"/>
+  </col:parameters>
+  
+  <col:content>
+  </col:content>
+</col:collection>

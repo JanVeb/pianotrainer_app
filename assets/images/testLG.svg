@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3.75" height="25" version="1.1" viewBox="0 0 3.75 25" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1181" x1="2.5725" x2="1.2361" y1="1.0357" y2="23.453" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#b3b3b3" offset="0"/>
+   <stop stop-color="#b3b3b3" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g>
+  <path d="m0 0v24.5c0 0.277 0.20914 0.49997 0.46896 0.49997h2.781c0.277 0 0.49771-0.20915 0.50003-0.46896l4e-5 -24.531z" color="#000000" color-rendering="auto" fill="#f9f9f9" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+ </g>
+ <g>
+  <path d="m3.322 21.503c0 1.6461-1.433 2.9711-3.2133 2.9711h2.4095c0.44507 0 0.80374-0.33163 0.80374-0.74315z" fill="#fff"/>
+ </g>
+ <g>
+  <path d="m0.1 0.1v24.304c0 0.27478 0.19799 0.49597 0.44395 0.49597h2.6327c0.26223 0 0.47117-0.20748 0.47336-0.46521l3.81e-5 -24.335z" color="#000000" color-rendering="auto" fill="#fff" fill-opacity=".2" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+ </g>
+ <g>
+  <path d="m0.23341 0.2v24.108c0 0.27257 0.18683 0.49197 0.41894 0.49197h2.4843c0.24745 0 0.44462-0.2058 0.44669-0.46146l3.59e-5 -24.138z" color="#000000" color-rendering="auto" fill="#fff" fill-opacity=".2" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+ </g>
+ <g>
+  <path d="m0.3 0.3v23.912c0 0.27035 0.17568 0.48797 0.39393 0.48797h2.336c0.23268 0 0.41808-0.20413 0.42003-0.4577l3.29e-5 -23.942z" color="#000000" color-rendering="auto" fill="#fff" fill-opacity=".2" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+ </g>
+ <g>
+  <path d="m0.4 0.4v23.716c0 0.26814 0.16452 0.48397 0.36892 0.48397h2.1877c0.21791 0 0.39153-0.20246 0.39336-0.45395l3.15e-5 -23.746z" color="#000000" color-rendering="auto" fill="#fff" fill-opacity=".2" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+ </g>
+ <g>
+  <path d="m0.5 0.5v23.52c0 0.26592 0.15337 0.47997 0.3439 0.47997h2.0394c0.20313 0 0.36499-0.20078 0.36669-0.4502l2.94e-5 -23.55z" color="#000000" color-rendering="auto" fill="url(#linearGradient1181)" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+ </g>
+</svg>
