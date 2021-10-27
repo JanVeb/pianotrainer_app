@@ -13,9 +13,20 @@ You can see video of the app in action here
 
 ![alt text](https://github.com/JanVeb/pianotrainer_app/blob/master/assets/Screenshot_20211027-161854375.jpg)
 
+
 ![alt text](https://github.com/JanVeb/pianotrainer_app/blob/master/assets/Screenshot_20211027-161917947.jpg)
+
+
 ![alt text](https://github.com/JanVeb/pianotrainer_app/blob/master/assets/Screenshot_20211027-161922483.jpg)
+
+
 ![alt text](https://github.com/JanVeb/pianotrainer_app/blob/master/assets/Screenshot_20211027-161925280.jpg)
+
+
 ![alt text](https://github.com/JanVeb/pianotrainer_app/blob/master/assets/Screenshot_20211027-161931589.jpg)
+
+
 ![alt text](https://github.com/JanVeb/pianotrainer_app/blob/master/assets/Screenshot_20211027-161937054.jpg)
+
+
 ![alt text](https://github.com/JanVeb/pianotrainer_app/blob/master/assets/Screenshot_20211027-161942686.jpg)
