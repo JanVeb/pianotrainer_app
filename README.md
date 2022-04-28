@@ -1,6 +1,6 @@
 # pianotrainer_app
 
-Was working on a piano learning app already a while ago, app isn't working at the moment, due to changes in Flutter after last updates. I've stoped working on this project and decided to remake it later in Ioninc Capacitor (still have to learn a lot in that framework, in particular, have greatest chalenge with View part of it) framework, beacuse JavaScript libraries (in particular https://github.com/patikapusula/osmd-player-react) would enable me to speed up work on this project, especialy as im lacking music theory knowledge and Flutter packages are somewhat way behind JavaScript in this area.
+Was working on a piano learning app already a while ago, app isn't working at the moment, due to changes in Flutter after last updates. I've stoped working on this project and decided to remake it in Ionic Capacitor framework, beacuse JavaScript libraries (in particular https://github.com/patikapusula/osmd-player-react) would enable me to speed up work on this project, especialy as im lacking music theory knowledge and Flutter packages are somewhat way behind JavaScript in this area.
 
 
 
